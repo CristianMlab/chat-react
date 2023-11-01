@@ -1,0 +1,30 @@
+.login-wrapper-wrapper{
+    background-color:#0e3b44;
+    height:100vh;
+    width:100vw;
+}
+
+.login-wrapper{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:white;
+    width:max-content;
+    font-family:Helvetica, Arial, sans-serif;
+    padding:20px 30px 20px 20px;
+    border-radius:10px;
+    background-color:#09252a;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+
+.centered{
+    text-align:center;
+}
+
+.inputDiv input{
+    width:100%;
+    min-width:20vw;
+}
+
